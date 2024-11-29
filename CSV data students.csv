@@ -1,0 +1,315 @@
+Course Code,Course Name,Number of students,Instructor,Section,School Name
+BSTA305,Advanced Business Statistics,34,Raymon Rahim  ,B,BU
+BSTA305,Advanced Business Statistics,43,Tijuana Wada  ,C,BU
+BSTA305,Advanced Business Statistics,40,Laree Alls  ,C,BU
+BSTA305,Advanced Business Statistics,18,Katharyn Marengo  ,C,BU
+BSTA305,Advanced Business Statistics,26,Jann Rodiguez  ,C,BU
+BSTA305,Advanced Business Statistics,33,Kanisha Ciccone  ,D,BU
+BSTA305,Advanced Business Statistics,43,Johana Lehoux  ,D,BU
+BSTA305,Advanced Business Statistics,44,Kristian Kean  ,E,BU
+BSTA305,Advanced Business Statistics,23,Roxie Turman  ,Y,BU
+CCNA200,Routing and Switching Essentials,1,Leif Hohman  ,A,AS
+CENG300,Fundamentals of Digital Logic Design,34,Joellen Grahn  ,A,EN
+CENG300,Fundamentals of Digital Logic Design,43,Laine Remington  ,A,EN
+CENG300,Fundamentals of Digital Logic Design,31,Shena Hudock  ,A,EN
+CENG300,Fundamentals of Digital Logic Design,44,Danyelle Brossard  ,A,EN
+CENG300,Fundamentals of Digital Logic Design,22,Candra Klawitter  ,A,EN
+CENG300,Fundamentals of Digital Logic Design,22,Edgardo Bodily  ,A,EN
+CENG300,Fundamentals of Digital Logic Design,45,Lacey Ladue  ,B,EN
+CENG310L,Software Applications and Design Lab,11,Larue Mccardell  ,A,EN
+CENG310L,Software Applications and Design Lab,23,Marian Ownbey  ,A,EN
+CENG310L,Software Applications and Design Lab,12,Elena Eppinger  ,A,EN
+CENG310L,Software Applications and Design Lab,29,Alisia Dumlao  ,A,EN
+CENG310L,Software Applications and Design Lab,21,Robbi Kinder  ,A,EN
+CENG310L,Software Applications and Design Lab,22,Lurline Peskin  ,A,EN
+CENG310L,Software Applications and Design Lab,24,Jenna Koepsell  ,B,EN
+CENG310L,Software Applications and Design Lab,26,Ginny Mcglown  ,C,EN
+CENG352L,Digital Logic Circuits Lab,16,Deedee Sprayberry  ,A,EN
+CENG352L,Digital Logic Circuits Lab,16,Armanda Sorrentino  ,A,EN
+CENG352L,Digital Logic Circuits Lab,16,Catharine Gebo  ,A,EN
+CENG352L,Digital Logic Circuits Lab,10,Dinorah Wheeling  ,A,EN
+CENG352L,Digital Logic Circuits Lab,16,Wenona Jarboe  ,A,EN
+CENG352L,Digital Logic Circuits Lab,14,Sherry Schumann  ,A,EN
+CENG352L,Digital Logic Circuits Lab,13,Rosa Odonnell  ,A,EN
+CENG352L,Digital Logic Circuits Lab,9,Joe Jess  ,A,EN
+CENG352L,Digital Logic Circuits Lab,13,Julene James  ,A,EN
+CENG352L,Digital Logic Circuits Lab,11,Lilia Rames  ,B,EN
+CENG352L,Digital Logic Circuits Lab,16,Criselda Dahlstrom  ,B,EN
+CENG352L,Digital Logic Circuits Lab,13,Earleen Bank  ,B,EN
+CENG352L,Digital Logic Circuits Lab,14,Una Meek  ,B,EN
+CENG352L,Digital Logic Circuits Lab,16,Zana Schwalm  ,B,EN
+CENG352L,Digital Logic Circuits Lab,14,Ferne Cuomo  ,B,EN
+CENG352L,Digital Logic Circuits Lab,7,Rolf Russum  ,B,EN
+CENG352L,Digital Logic Circuits Lab,15,Gertrud Skoog  ,B,EN
+CENG352L,Digital Logic Circuits Lab,16,Billy Valdez  ,B,EN
+CENG352L,Digital Logic Circuits Lab,16,Shantel Barcomb  ,C,EN
+CENG352L,Digital Logic Circuits Lab,16,Masako Fujii  ,C,EN
+CENG352L,Digital Logic Circuits Lab,16,Carmelo Sevin  ,C,EN
+CENG352L,Digital Logic Circuits Lab,16,Vi Wetherell  ,C,EN
+CENG352L,Digital Logic Circuits Lab,4,Dell Clayborn  ,C,EN
+CENG352L,Digital Logic Circuits Lab,15,Shanae Dorrell  ,C,EN
+CENG352L,Digital Logic Circuits Lab,14,Kayce Raby  ,D,EN
+CENG352L,Digital Logic Circuits Lab,13,Delois Eldreth  ,D,EN
+CENG352L,Digital Logic Circuits Lab,15,Darby Ruck  ,D,EN
+CENG352L,Digital Logic Circuits Lab,16,Evalyn Buskirk  ,E,EN
+CENG352L,Digital Logic Circuits Lab,16,Reggie Simonsen  ,E,EN
+CENG352L,Digital Logic Circuits Lab,16,Lean Fino  ,F,EN
+CENG352L,Digital Logic Circuits Lab,16,Bryan Tietz  ,G,EN
+CENG352L,Digital Logic Circuits Lab,16,Pedro Rothschild  ,H,EN
+CENG352L,Digital Logic Circuits Lab,16,Breana Littell  ,I,EN
+CENG355,Advanced Digital Logic Design,23,Rosette Hockensmith  ,A,EN
+CSCI342,Fundamentals of Networking Technologies,22,Elana Dyess  ,A,AS
+CSCI342,Fundamentals of Networking Technologies,18,Glennie Muck  ,B,AS
+CSCI342,Fundamentals of Networking Technologies,20,Celinda Gouge  ,B,AS
+CSCI342,Fundamentals of Networking Technologies,20,Diane Amo  ,C,AS
+CSCI350,Data Structures,26,Virgina Sutton  ,A,AS
+CSCI350,Data Structures,36,Nathanial Hirata  ,A,AS
+CSCI350,Data Structures,13,Jerrica Mccaul  ,A,AS
+CSCI350,Data Structures,10,Audie Mathes  ,A,AS
+CSCI350,Data Structures,39,Annabel Krall  ,A,AS
+CSCI350,Data Structures,14,Imelda Monzon  ,A,AS
+CSCI350,Data Structures,34,Delores Pung  ,A,AS
+CSCI350,Data Structures,20,Dessie Cuthbertson  ,A,AS
+CSCI350,Data Structures,37,Angelique Leick  ,A,AS
+CSCI350,Data Structures,16,Lea Wasson  ,B,AS
+CSCI370,Visual Programming,15,Janise Thibodeau  ,A,AS
+CSCI370,Visual Programming,15,Elina Norden  ,A,AS
+CSCI370,Visual Programming,6,Tamesha Saladino  ,A,AS
+CSCI370,Visual Programming,18,Raymon Rahim  ,A,AS
+CSCI370,Visual Programming,18,Tijuana Wada  ,A,AS
+CSCI375,Web Programming Client Side,16,Laree Alls  ,A,AS
+CSCI375,Web Programming Client Side,3,Katharyn Marengo  ,A,AS
+CSCI375,Web Programming Client Side,20,Jann Rodiguez  ,A,AS
+CSCI375,Web Programming Client Side,21,Kanisha Ciccone  ,A,AS
+CSCI375,Web Programming Client Side,19,Alysa Mascorro  ,A,AS
+CSCI375,Web Programming Client Side,20,Abel Gilkison  ,A,AS
+CSCI375,Web Programming Client Side,20,Everette Gipson  ,A,AS
+CSCI375,Web Programming Client Side,13,Tennille Strayhorn  ,A,AS
+CSCI375,Web Programming Client Side,20,Frederica Schreckengost  ,B,AS
+CSCI375,Web Programming Client Side,21,Glenn Valcourt  ,B,AS
+CSCI375,Web Programming Client Side,8,Sona Dingle  ,B,AS
+CSCI377,Introduction to Game Development,25,Fredda Callicoat  ,A,AS
+CSCI377,Introduction to Game Development,11,Josphine Steiner  ,A,AS
+CSCI380,Software Engineering,20,Yen Revis  ,A,AS
+CSCI380,Software Engineering,38,Catherin Gerrish  ,A,AS
+CSCI380,Software Engineering,29,Mitzi Doe  ,A,AS
+CSCI380,Software Engineering,25,Sharyn Tabor  ,A,AS
+CSCI380,Software Engineering,20,Tami Pacelli  ,A,AS
+CSCI380,Software Engineering,39,Camelia Imai  ,A,AS
+CSCI380,Software Engineering,12,Armanda Jarrard  ,A,AS
+CSCI380,Software Engineering,41,Brandon Mcmeans  ,A,AS
+CSCI380,Software Engineering,5,Sherlyn Hutchcraft  ,A,AS
+CSCI380,Software Engineering,31,Tamara Bosserman  ,B,AS
+CSCI380,Software Engineering,36,Edie Mebane  ,B,AS
+CSCI385,Digital Logic,42,Max Warren  ,A,AS
+CSCI385,Digital Logic,21,Numbers Stansberry  ,A,AS
+CSCI385,Digital Logic,22,Lady Leclaire  ,A,AS
+CSCI385,Digital Logic,26,Myesha Pai  ,A,AS
+CSCI385,Digital Logic,21,Norene William  ,A,AS
+CSCI385,Digital Logic,39,Timothy Crompton  ,A,AS
+CSCI385,Digital Logic,35,Emelda Henning  ,A,AS
+CSCI385,Digital Logic,15,Elana Dyess  ,A,AS
+CSCI385,Digital Logic,35,Glennie Muck  ,A,AS
+CSCI385,Digital Logic,24,Celinda Gouge  ,B,AS
+CSCI385,Digital Logic,27,Diane Amo  ,B,AS
+CSCI392,Computer Networks,14,Virgina Sutton  ,A,AS
+CSCI392,Computer Networks,10,Nathanial Hirata  ,A,AS
+CSCI392,Computer Networks,11,Jerrica Mccaul  ,A,AS
+CSCI392,Computer Networks,24,Audie Mathes  ,A,AS
+CSCI392,Computer Networks,20,Annabel Krall  ,A,AS
+CSCI392,Computer Networks,20,Imelda Monzon  ,A,AS
+CSCI392,Computer Networks,19,Delores Pung  ,A,AS
+CSCI392,Computer Networks,8,Dessie Cuthbertson  ,A,AS
+CSCI392,Computer Networks,7,Angelique Leick  ,A,AS
+CSCI392,Computer Networks,19,Lea Wasson  ,B,AS
+CSCI392,Computer Networks,17,Janise Thibodeau  ,B,AS
+CSCI392,Computer Networks,18,Elina Norden  ,B,AS
+CSCI392,Computer Networks,14,Tamesha Saladino  ,B,AS
+CSCI392,Computer Networks,19,Raymon Rahim  ,C,AS
+CSCI392,Computer Networks,20,Tijuana Wada  ,D,AS
+CSCI410,Mobile Application,2,Laree Alls  ,Z1,AS
+CSCI440,Algorithms,1,Katharyn Marengo  ,Z1,AS
+CSCI445,Robotics Design and Coding,19,Jann Rodiguez  ,A,AS
+CSCI445,Robotics Design and Coding,13,Kanisha Ciccone  ,A,AS
+CSCI445,Robotics Design and Coding,10,Johana Lehoux  ,A,AS
+CSCI454,Advanced Robotics,7,Kristian Kean  ,A,AS
+CSCI454,Advanced Robotics,12,Roxie Turman  ,A,AS
+CSCI454,Advanced Robotics,9,Leif Hohman  ,A,AS
+CSCI454,Advanced Robotics,14,Syble Lyke  ,A,AS
+CSCI454,Advanced Robotics,20,Joellen Grahn  ,A,AS
+CSCI454,Advanced Robotics,8,Laine Remington  ,A,AS
+CSCI454,Advanced Robotics,15,Shena Hudock  ,A,AS
+CSCI454,Advanced Robotics,4,Danyelle Brossard  ,A,AS
+CSCI454,Advanced Robotics,20,Candra Klawitter  ,A,AS
+CSCI454,Advanced Robotics,19,Edgardo Bodily  ,B,AS
+CSCI454,Advanced Robotics,13,Lacey Ladue  ,C,AS
+CSCI465,Operating Systems,6,Larue Mccardell  ,A,AS
+CSCI465,Operating Systems,31,Marian Ownbey  ,A,AS
+CSCI465,Operating Systems,15,Elena Eppinger  ,A,AS
+CSCI465,Operating Systems,19,Alisia Dumlao  ,A,AS
+CSCI465,Operating Systems,35,Robbi Kinder  ,A,AS
+CSCI465,Operating Systems,15,Lurline Peskin  ,A,AS
+CSCI465,Operating Systems,13,Jenna Koepsell  ,A,AS
+CSCI465,Operating Systems,28,Ginny Mcglown  ,A,AS
+CSCI465,Operating Systems,9,Deedee Sprayberry  ,A,AS
+CSCI465,Operating Systems,29,Armanda Sorrentino  ,B,AS
+CSCI465L,Operating Systems Lab,5,Catharine Gebo  ,A,AS
+CSCI465L,Operating Systems Lab,16,Dinorah Wheeling  ,A,AS
+CSCI465L,Operating Systems Lab,16,Wenona Jarboe  ,A,AS
+CSCI465L,Operating Systems Lab,16,Sherry Schumann  ,A,AS
+CSCI465L,Operating Systems Lab,22,Rosa Odonnell  ,A,AS
+CSCI465L,Operating Systems Lab,21,Joe Jess  ,A,AS
+CSCI465L,Operating Systems Lab,15,Julene James  ,A,AS
+CSCI465L,Operating Systems Lab,9,Lilia Rames  ,A,AS
+CSCI465L,Operating Systems Lab,13,Criselda Dahlstrom  ,A,AS
+CSCI465L,Operating Systems Lab,15,Earleen Bank  ,B,AS
+EDUC405,Methods of Teaching & Testing,13,Luna Weist  ,V1,ED
+EDUC405,Methods of Teaching & Testing,16,Gaylord Scotti  ,W1,ED
+EDUC423,Teaching Mathematics and General Sciences for Elementary Teachers,16,Linnie Hackenberg  ,A,ED
+EDUC423,Teaching Mathematics and General Sciences for Elementary Teachers,10,Juana Nielsen  ,A,ED
+EDUC423,Teaching Mathematics and General Sciences for Elementary Teachers,13,Craig Mccallie  ,A,ED
+EDUC423,Teaching Mathematics and General Sciences for Elementary Teachers,17,Rosario Markow  ,A,ED
+EDUC423,Teaching Mathematics and General Sciences for Elementary Teachers,23,Jacqui Dabbs  ,A,ED
+EDUC423,Teaching Mathematics and General Sciences for Elementary Teachers,12,Ian Martinelli  ,V1,ED
+EDUC440,Teaching Practicum I,14,Ozell Leiker  ,A,ED
+EDUC440,Teaching Practicum I,16,Mindy Schooley  ,A,ED
+EDUC440,Teaching Practicum I,14,Dell Jungers  ,V1,ED
+EDUC440,Teaching Practicum I,16,Cleotilde Schendel  ,W1,ED
+EDUC460,Role of Play in Child Development,9,Julee Delacerda  ,A,ED
+EDUC460,Role of Play in Child Development,23,Adalberto Longenecker  ,A,ED
+EDUC460,Role of Play in Child Development,13,Olivia Scroggs  ,A,ED
+EDUC460,Role of Play in Child Development,18,Russel Springer  ,A,ED
+EDUC460,Role of Play in Child Development,30,Lela Proudfoot  ,A,ED
+EDUC460,Role of Play in Child Development,29,Elwanda Coutts  ,A,ED
+EDUC460,Role of Play in Child Development,33,Zoe Jefferys  ,B,ED
+EDUC460,Role of Play in Child Development,13,Elva Englert  ,V1,ED
+EDUC460,Role of Play in Child Development,16,Lynda Romberg  ,W1,ED
+EDUC490,Teaching Practicum II,34,Arline Parkins  ,A,ED
+EDUC490,Teaching Practicum II,27,Cassi Demario  ,A,ED
+EDUC490,Teaching Practicum II,29,Arnetta Lobel  ,A,ED
+EDUC490,Teaching Practicum II,31,Brande Bracey  ,A,ED
+EDUC490,Teaching Practicum II,12,Chante Dew  ,A,ED
+EDUC490,Teaching Practicum II,9,Shaniqua Fullen  ,A,ED
+EDUC490,Teaching Practicum II,37,Billy Kunze  ,A,ED
+EDUC490,Teaching Practicum II,9,Henriette Thibodeaux  ,A,ED
+EDUC490,Teaching Practicum II,20,Fumiko Rodriguez  ,A,ED
+EDUC490,Teaching Practicum II,12,Byron Kennon  ,B,ED
+EDUC490,Teaching Practicum II,25,Randee Boaz  ,B,ED
+EDUC490,Teaching Practicum II,19,Phuong Weast  ,B,ED
+EDUC511,Classroom Dynamics,41,Herlinda Mccullough  ,A,ED
+EDUC520,Philosophy of Education,34,Moises Skinner  ,A,ED
+EDUC520,Philosophy of Education,44,Gemma Payer  ,A,ED
+EDUC551,Research Methodology & Dissertation Preparation,33,Emma Laursen  ,A,ED
+EDUC551,Research Methodology & Dissertation Preparation,10,Thao Kesterson  ,A,ED
+EDUC551,Research Methodology & Dissertation Preparation,10,Naomi Felt  ,A,ED
+EDUC551,Research Methodology & Dissertation Preparation,14,Alysa Mascorro  ,A,ED
+EDUC556,Advanced Methods of Teaching Humanities and Language,41,Abel Gilkison  ,A,ED
+EDUC556,Advanced Methods of Teaching Humanities and Language,10,Everette Gipson  ,A,ED
+EDUC557,Advanced Methods of Teaching Math and Science,21,Tennille Strayhorn  ,A,ED
+EDUC557,Advanced Methods of Teaching Math and Science,29,Frederica Schreckengost  ,A,ED
+EDUC557,Advanced Methods of Teaching Math and Science,27,Glenn Valcourt  ,A,ED
+EDUC561,Educational Media and Technology,25,Sona Dingle  ,A,ED
+EDUC561,Educational Media and Technology,20,Fredda Callicoat  ,A,ED
+EDUC561,Educational Media and Technology,32,Josphine Steiner  ,A,ED
+EDUC561,Educational Media and Technology,30,Yen Revis  ,A,ED
+EDUC561,Educational Media and Technology,30,Catherin Gerrish  ,A,ED
+EDUC561,Educational Media and Technology,23,Mitzi Doe  ,B,ED
+EDUC561,Educational Media and Technology,30,Sharyn Tabor  ,B,ED
+EDUC561,Educational Media and Technology,23,Tami Pacelli  ,B,ED
+EDUC565,Assessment & Evaluation,40,Camelia Imai  ,A,ED
+EDUC565,Assessment & Evaluation,8,Armanda Jarrard  ,A,ED
+EDUC565,Assessment & Evaluation,32,Brandon Mcmeans  ,A,ED
+EDUC565,Assessment & Evaluation,19,Sherlyn Hutchcraft  ,A,ED
+EDUC565,Assessment & Evaluation,20,Tamara Bosserman  ,A,ED
+EDUC565,Assessment & Evaluation,26,Edie Mebane  ,B,ED
+EDUC575,Personnel and Human Resource Management,19,Max Warren  ,A,ED
+EDUC575,Personnel and Human Resource Management,41,Numbers Stansberry  ,A,ED
+EDUC580,Practicum in Educational Management & Leadership,23,Lady Leclaire  ,A,ED
+EDUC580,Practicum in Educational Management & Leadership,16,Myesha Pai  ,A,ED
+EDUC600,Curriculum Design & Evaluation,46,Norene William  ,A,ED
+EDUC600,Curriculum Design & Evaluation,30,Timothy Crompton  ,A,ED
+EDUC600,Curriculum Design & Evaluation,40,Emelda Henning  ,A,ED
+EDUC600,Curriculum Design & Evaluation,49,Elana Dyess  ,A,ED
+EDUC600,Curriculum Design & Evaluation,23,Glennie Muck  ,A,ED
+EDUC600,Curriculum Design & Evaluation,44,Celinda Gouge  ,B,ED
+EDUC600,Curriculum Design & Evaluation,40,Diane Amo  ,B,ED
+EDUC600,Curriculum Design & Evaluation,30,Virgina Sutton  ,B,ED
+EDUC600,Curriculum Design & Evaluation,39,Nathanial Hirata  ,B,ED
+EDUC600,Curriculum Design & Evaluation,12,Jerrica Mccaul  ,C,ED
+EDUC610,Applied Linguistics,10,Audie Mathes  ,A,ED
+EDUC610,Applied Linguistics,10,Annabel Krall  ,A,ED
+EDUC610,Applied Linguistics,7,Imelda Monzon  ,A,ED
+EDUC640,Strategic Planning in Education,18,Delores Pung  ,A,ED
+EDUC640,Strategic Planning in Education,4,Dessie Cuthbertson  ,A,ED
+EDUC640,Strategic Planning in Education,18,Angelique Leick  ,A,ED
+EDUC646,Literacy and Language Development,4,Lea Wasson  ,A,ED
+EDUC660,Teaching Practices,34,Janise Thibodeau  ,A,ED
+EDUC660,Teaching Practices,41,Elina Norden  ,A,ED
+EDUC660,Teaching Practices,8,Tamesha Saladino  ,A,ED
+EDUC660,Teaching Practices,37,Raymon Rahim  ,A,ED
+EDUC660,Teaching Practices,44,Tijuana Wada  ,A,ED
+EDUC660,Teaching Practices,26,Laree Alls  ,A,ED
+EDUC660,Teaching Practices,50,Katharyn Marengo  ,A,ED
+EDUC660,Teaching Practices,20,Jann Rodiguez  ,B,ED
+EDUC660,Teaching Practices,42,Kanisha Ciccone  ,B,ED
+EDUC660,Teaching Practices,28,Alysa Mascorro  ,B,ED
+EDUC666,Program Models for Gifted Learners,44,Abel Gilkison  ,A,ED
+EDUC666,Program Models for Gifted Learners,16,Everette Gipson  ,A,ED
+EDUC667,Counseling: Theory and Practice,14,Tennille Strayhorn  ,A,ED
+EDUC667,Counseling: Theory and Practice,36,Frederica Schreckengost  ,A,ED
+EDUC667,Counseling: Theory and Practice,18,Glenn Valcourt  ,A,ED
+EDUC667,Counseling: Theory and Practice,35,Sona Dingle  ,A,ED
+EDUC667,Counseling: Theory and Practice,29,Fredda Callicoat  ,A,ED
+EDUC667,Counseling: Theory and Practice,40,Josphine Steiner  ,A,ED
+EDUC667,Counseling: Theory and Practice,50,Yen Revis  ,A,ED
+EDUC667,Counseling: Theory and Practice,20,Catherin Gerrish  ,B,ED
+EDUC670,Educational Policies & Development,22,Mitzi Doe  ,A,ED
+EDUC670,Educational Policies & Development,16,Sharyn Tabor  ,A,ED
+EDUC694,Graduate Research Project,9,Tami Pacelli  ,A,ED
+EDUC694,Graduate Research Project,6,Camelia Imai  ,A,ED
+EDUC694,Graduate Research Project,6,Armanda Jarrard  ,A,ED
+EDUC694,Graduate Research Project,0,Brandon Mcmeans  ,A,ED
+EDUC695,Graduate Research Thesis,1,Sherlyn Hutchcraft  ,A,ED
+EDUC695,Graduate Research Thesis,12,Tamara Bosserman  ,A,ED
+EDUC695,Graduate Research Thesis,1,Edie Mebane  ,A,ED
+EDUC695,Graduate Research Thesis,5,Max Warren  ,A,ED
+EDUC695,Graduate Research Thesis,1,Numbers Stansberry  ,A,ED
+EDUC695,Graduate Research Thesis,1,Lady Leclaire  ,B,ED
+EDUC695,Graduate Research Thesis,4,Myesha Pai  ,B,ED
+EDUC695,Graduate Research Thesis,2,Norene William  ,B,ED
+EDUC695,Graduate Research Thesis,2,Timothy Crompton  ,B,ED
+EDUC695,Graduate Research Thesis,1,Emelda Henning  ,C,ED
+EDUC695,Graduate Research Thesis,2,Elana Dyess  ,C,ED
+EDUC695,Graduate Research Thesis,0,Glennie Muck  ,D,ED
+EDUC695,Graduate Research Thesis,1,Celinda Gouge  ,E,ED
+EDUC695,Graduate Research Thesis,1,Diane Amo  ,F,ED
+EENG250,Electric Circuits I,39,Virgina Sutton  ,A,EN
+EENG250,Electric Circuits I,39,Nathanial Hirata  ,A,EN
+EENG250,Electric Circuits I,41,Jerrica Mccaul  ,A,EN
+EENG250,Electric Circuits I,43,Audie Mathes  ,A,EN
+EENG250,Electric Circuits I,16,Annabel Krall  ,A,EN
+EENG250,Electric Circuits I,39,Imelda Monzon  ,A,EN
+EENG250,Electric Circuits I,39,Delores Pung  ,A,EN
+EENG250,Electric Circuits I,40,Dessie Cuthbertson  ,A,EN
+EENG250,Electric Circuits I,40,Angelique Leick  ,A,EN
+EENG250,Electric Circuits I,43,Lea Wasson  ,B,EN
+EENG250,Electric Circuits I,40,Janise Thibodeau  ,B,EN
+EENG250,Electric Circuits I,33,Elina Norden  ,B,EN
+EENG250,Electric Circuits I,40,Tamesha Saladino  ,B,EN
+EENG250,Electric Circuits I,31,Raymon Rahim  ,B,EN
+EENG250,Electric Circuits I,40,Tijuana Wada  ,B,EN
+EENG250,Electric Circuits I,43,Laree Alls  ,B,EN
+EENG250,Electric Circuits I,40,Katharyn Marengo  ,C,EN
+EENG250,Electric Circuits I,42,Jann Rodiguez  ,C,EN
+EENG250,Electric Circuits I,26,Kanisha Ciccone  ,C,EN
+EENG250,Electric Circuits I,42,Johana Lehoux  ,C,EN
+EENG250,Electric Circuits I,42,Kristian Kean  ,C,EN
+EENG250,Electric Circuits I,40,Roxie Turman  ,C,EN
+EENG250,Electric Circuits I,26,Leif Hohman  ,C,EN
+EENG250,Electric Circuits I,42,Syble Lyke  ,D,EN
+EENG250,Electric Circuits I,34,Joellen Grahn  ,D,EN
+EENG250,Electric Circuits I,42,Laine Remington  ,E,EN
+EENG250,Electric Circuits I,42,Shena Hudock  ,F,EN
+EENG250,Electric Circuits I,42,Danyelle Brossard  ,G,EN
+EENG250,Electric Circuits I,41,Candra Klawitter  ,H,EN
+EENG250,Electric Circuits I,39,Edgardo Bodily  ,I,EN
